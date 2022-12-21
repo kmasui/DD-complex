@@ -9,5 +9,5 @@ C++からインクルードして使用してください．
 さらにそれぞれに対して.hiと.loで上位ビット下位ビットにアクセスできます．
 .hiと.loの型は普通のdoubleです．
 
-aa.re.hi = hogehoge
+aa.re.hi = hogehoge <br>
 b[i].im.lo = 0.0;
